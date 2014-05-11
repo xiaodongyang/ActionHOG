@@ -29,13 +29,11 @@ Please cite our paper if you use the code:
 
 X. Yang, C. Yi, L. Cao, and Y. Tian. MediaCCNY at TRECVID 2012: Surveillance Event Detection. NIST TRECVID Workshop, 2012. [[PDF](http://yangxd.org/publications/papers/TRECVID_2012_SED.pdf)]
 
+Y. Tian, L. Cao, Z. Liu, and Z. Zhang. Hierarchical Filtered Motion for Action Recognition in Crowded Videos. IEEE Transactions on Systems, Man, and Cybernetics (Part C) 42(3), 313-323, 2012. [[PDF](http://www-ee.ccny.cuny.edu/www/web/yltian/Publications/SMCC-HumanAction.pdf)]
 
-### LICENSE CONDITIONS
 
-Copyright (C) 2012 Xiaodong Yang 
+### License Conditions
 
-This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
+Copyright (C) 2013 Xiaodong Yang 
 
-This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License along with this program; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
+Distibution code version 1.0 - 05/10/2014. The code is for research purpose only. 
