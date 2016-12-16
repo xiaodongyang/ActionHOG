@@ -27,7 +27,7 @@ If you find any bug or develop some extensions, please feel free to drop me a li
 
 Please cite our paper if you use the code:
 
-X. Yang, C. Yi, L. Cao, and Y. Tian. MediaCCNY at TRECVID 2012: Surveillance Event Detection. NIST TRECVID Workshop, 2012. [[PDF](http://yangxd.org/publications/papers/TRECVID_2012_SED.pdf)]
+X. Yang, C. Yi, L. Cao, and Y. Tian. MediaCCNY at TRECVID 2012: Surveillance Event Detection. NIST TRECVID Workshop, 2012. [[PDF](http://xiaodongyang.org/publications/papers/trecvid12.pdf)]
 
 Y. Tian, L. Cao, Z. Liu, and Z. Zhang. Hierarchical Filtered Motion for Action Recognition in Crowded Videos. IEEE Transactions on Systems, Man, and Cybernetics (Part C) 42(3), 313-323, 2012. [[PDF](http://www-ee.ccny.cuny.edu/www/web/yltian/Publications/SMCC-HumanAction.pdf)]
 
